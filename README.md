@@ -30,4 +30,5 @@
 
 5. Rect Native
         http://wiki.jikexueyuan.com/project/react-native/
+        http://reactivex.io./languages.html
 
