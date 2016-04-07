@@ -24,5 +24,7 @@
                         http://blog.sina.com.cn/s/blog_73e890f401016nmw.html
 
 3. RecyclerView 的滑动卡顿问题，待解决...
-4. 
+
+4. RXJava 相关资料：
+        http://wiki.jikexueyuan.com/project/rxjava/README.html
 
